@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_tab_indicator">
+        <item>首页</item>
+        <item>分类</item>
+        <item></item>
+        <item>购物车</item>
+        <item>我的</item>
+    </string-array>
+    
+    <string-array name="usercenter_title">
+        <item>动态</item>
+        <item>原创</item>
+        <item>TA的回答</item>
+    </string-array>
+
+    <array name="home_bar_labels">
+        <item>管理系统</item>
+        <item>楼宇对讲</item>
+        <item>路边停车</item>
+        <item>诱导系统</item>
+        <item>停车系统</item>
+        <item>智能家具</item>
+        <item>充电系统</item>
+        <item>立体车库</item>
+        <item>购物</item>
+        <item>摄影写真</item>
+        <item>丽人</item>
+        <item>生活服务</item>
+        <item>门票</item>
+        <item>抽奖公益</item>
+        <item>今日新单</item>
+        <item>全部分类</item>
+    </array>
+
+    <array name="home_bar_icon">
+        <item>@mipmap/icon_home_food_99</item>
+        <item>@mipmap/icon_home_movie_29</item>
+        <item>@mipmap/icon_home_hotel_300</item>
+        <item>@mipmap/icon_home_happy_2</item>
+        <item>@mipmap/icon_home_self_189</item>
+        <item>@mipmap/icon_home_ktv_31</item>
+        <item>@mipmap/icon_home_93</item>
+        <item>@mipmap/icon_home_400</item>
+        <item>@mipmap/icon_home_3</item>
+        <item>@mipmap/icon_home_37</item>
+        <item>@mipmap/icon_home_42</item>
+        <item>@mipmap/icon_home_life_46</item>
+        <item>@mipmap/icon_home_18</item>
+        <item>@mipmap/icon_home_16</item>
+        <item>@mipmap/icon_home_999</item>
+        <item>@mipmap/icon_home_all_0</item>
+    </array>
+
+    <!--stopcar-->
+    <string-array name="home_grid_texts">
+        <item>绑定车牌</item>
+        <item>停车信息</item>
+        <item>月卡续费</item>
+        <item>商户返利</item>
+        <item>车位预定</item>
+        <item>一件挪车</item>
+
+    </string-array>
+    <array name="home_grid_imgs">
+        <item>@mipmap/app_transfer</item>
+        <item>@mipmap/app_fund</item>
+        <item>@mipmap/app_phonecharge</item>
+        <item>@mipmap/app_creditcard</item>
+        <item>@mipmap/app_movie</item>
+        <item>@mipmap/app_lottery</item>
+    </array>
+</resources>

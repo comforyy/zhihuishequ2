@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="180dp"
+              android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardView_shishu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:clickable="false"
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+
+            >
+
+            <ImageView
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:id="@+id/shishu_img"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                />
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/Re_shishu_jiage"
+                android:textSize="19sp"
+                android:paddingTop="12dp"
+                android:paddingLeft="20dp"
+
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/shishu_miaoshu"
+                    android:textSize="15sp"
+                    android:text="文字1"
+                    />
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:id="@+id/tv_shishu_shijia"
+                    android:textSize="18sp"
+                    android:text="18"
+                    android:layout_below="@+id/shishu_miaoshu"
+                    android:textColor="@color/bg_pice"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tv_shishu_yuanjia"
+                    android:textSize="15sp"
+                    android:text="12"
+                    android:paddingLeft="35dp"
+                    android:textColor="@color/image_view_btn_pressed_bgColor"
+                    android:layout_alignBottom="@+id/tv_shishu_shijia"
+                    android:layout_alignBaseline="@+id/tv_shishu_shijia"
+                    />
+            </RelativeLayout>
+
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/shishu_car"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@mipmap/shopping"
+            android:layout_marginLeft="127dp"
+            android:layout_marginTop="118dp"
+            />
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_12561ea3f4938d94dd952fd2d1d9a053ceeccb4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/jars/libs/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e009af854d43130a9a13bcba900ddd1124e835d5">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_694e00a855a6cfbbc2899a3f66c0282703ee4225/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/5cdad19e31263036c4b052c51109e7307155233c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e3964d085d6c344264a70210cb199453a95dd1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="093091334a865d9bc76d36aee690634554038f0e">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f574538c3f8cd20398a6050a28fb053d71c004df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/libs/cmbkeyboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="35b1fd6be6f1722932350584a58aebf9a62dadf3">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/2/cmbkeyboard_fc777717a51612b65fc933cfa9754def9973246f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/jars/libs/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cea3a9be08d0dcf89783b2cc87c8787fdb2a0d12">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_4d3263c28349ddecba8d392100b596ef60465a9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/jars/libs/rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="84127ad71f76445b8215afceb38e8b05f58eafa6">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxandroid-1.2.0_8c2482dc31b6d05dc21a6ef694cb47ec8170539e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/65839f57f34f087f47ec77c59c83bf4a4ac2c441/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c70d3d4cb2d0b16c435c716fa169cb506929269b">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dbfe3c3938c6ce487c7eb76001e610f193a7eb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/e1fe93b10ea97c0ad1eaf9a0354ffd10ee83a49a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8264325e9727803335d82fde95ef89350a870efd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac71d1248d0f3577b39093396e6ff35582a5d7a4">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a36cb63b6a9fc59a0dd5934b417785963c560bc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/jars/libs/bugly_crash_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f0b609497fb261fa1ba9af4abb278e7072f6b4af">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bugly_crash_release_623a2927fd519bec0604c7abc651da39f6da6047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/fd2603c2493af3665c7daff3ea737feb86fbf5e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea0dcc584f25225ab78c9ee3f7fe574cb72f9ef0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/a71d8c79b477780422e4309c9bcbc6e0311ff96b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45c14fd61193b0154fe70292ea7a9aee81b35647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/jars/libs/okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f64e0f80ef26fbc722b4bc9f024370d5b1e8f6d6">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.7.0_a0356ca9001559374ee261369eeaed7e1b31c5fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/jars/libs/BmobSDK_3.5.5_20170420.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f67cfc97fcbde8b4764f01135b10afa716ae1a40">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/BmobSDK_3.5.5_20170420_c41809af084aa8e4ea5dffbc0ca77abf33bfb1db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/46241866c1f5e45ea99118c57e4bccd6d985f125/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5eb6c5f132d34f7ece3fbae25feb43e4ea9d6aa">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4dd8d41e3828c8e648a83f6879b3db3522f992df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/bb70a2ba96cb1cd0ad273cccdeeed155b59b9313/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9ea107440d559378d32a08504c3965c71cef69f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/fadd390822569a6e8f2bfbb36083b4f5df9cab60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="87bffaacf21eb2c6fc61cf01930ff96ae175e798">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c295efa7a918d97753912100a6cc4a1ddff3a9cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/d057197201898e7d039437e03af9fc77b01b33f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7f449e034d12519ae581c4c4898060f4664b282/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.3.2_b30f53a60e455523b294623a8c35ea9a916d543c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/f70b1ae66e57e7ea658f24c94299ad62bffbfeb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_254ae44736a964aab3bc946a4090f6dc8b33864a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/65e592db7249302c1d3d45f3be5b0ce212c095c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cf4516c2ff469e3b1559053cff27e664603a99c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/jars/libs/library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8cda216c00328012c6e3f90460874daa3cab6d16">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/library_310398d09c5cc0c0496852310b446bc6594510d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/eeaf6414a4737f5ccf7e348465559907b44e86d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69047d5edd2dad12b27a97caf71d3e03c22a38de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_47903858c61b15e8744997451060f4859825bf53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/b3113c6f8f47af9280fe091f9ea8b1df67c75590/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee3942679e28a8b597cd6ef4f5fc201a1be84945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/5.1.1/b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8/butterknife-5.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-5.1.1_7d14d518728d9926b8ffb5c102a96f15edcee90e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/jars/libs/core_3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6afec4bf592cfc30a0f9615f9739583c6e2bf04e">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/core_3.0.1_40e94258512db76ebc22428a0d681d339232b764/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/2a3c192999f993613975bb9e0458b5c14e1ebe85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f104b75c4c59d5855f109bd791ef6bc379412c88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/ddb0f5e412915f07b2e0a6b913a30b783dfaa2c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27ebd5d2c69a1830b4ff47a1d5d4c6a4aab5e233">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_151c828a761b0a1e48b278b2e89349a19469c7f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.3_38bc40efc4eb4453b82f81598a03d376209868a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/jars/libs/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="79f0c1e382e8b62e91064ef6b71130dda83f338e">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_0eec604fe9453339963009c9d66d5ce3ef2cc726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a68c5e705895df63da079a9e5c842fd636b09e70">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34873dd8aec28bd5b1a2b073121928e9bc5bf93f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/805d85a00aa50eb1819d0f212df3bb9bb566938c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8595d83ff4eb2a3a972841d25308a5b0aa618ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_217d840d36f5a89e94ecb4e38df69d9814c65d81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d2580e3758a0cf5adfcbc49b4cfd40cbc3dcc3df">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f301702749bb893d49ddfc71901cce9cdc5e2271/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/a0911c676886aef9899d6e9bfcfad528850bc01a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d572f92ecb6ae3b66e807550b07e4a6cca1f737f">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfc109ddf09e112e3f175d163a7fead5340b068b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/jars/libs/hwlibs.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3def4f8da8a431081c4d192e99e5f69839dc9460">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/hwlibs_ee5fb00a6c17d66b65f3d3518c67853010d7e164/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookair/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.46.android/108717c93f7aec31fb86db57cb4ad1e26034c638/fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.1.46.android_950884444f5a80503231cec308e0f0d9f1381294/classes.dex" />
+    </item>
+
+</items>
