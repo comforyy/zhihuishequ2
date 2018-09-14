@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toastRoot"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:alpha="0.8"
+    android:background="@drawable/custom_toast"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="8dp" >
+	
+	<TextView
+	    android:id="@+id/toastMessage"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="toast"
+	    android:textAppearance="?android:attr/textAppearanceMedium"
+	    android:textColor="#333" />
+
+</LinearLayout>

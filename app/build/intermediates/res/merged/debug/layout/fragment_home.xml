@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:custom="http://schemas.android.com/apk/res-auto"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:background="#FFF"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <include layout="@layout/home_title_bar"
+                />
+
+            <com.daimajia.slider.library.SliderLayout
+                android:id="@+id/slider"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                />
+            <com.daimajia.slider.library.Indicators.PagerIndicator
+                android:id="@+id/custom_indicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                custom:selected_color="#FF5500"
+                custom:unselected_color="#55333333"
+                custom:shape="rect"
+                custom:selected_padding_left="2dp"
+                custom:selected_padding_right="2dp"
+                custom:unselected_padding_left="2dp"
+                custom:unselected_padding_right="2dp"
+                custom:selected_width="16dp"
+                custom:selected_height="3dp"
+                custom:unselected_width="16dp"
+                custom:unselected_height="3dp"
+                android:layout_gravity="center"
+                />
+
+            <android.support.v4.view.ViewPager
+                android:layout_marginTop="10dp"
+                android:id="@+id/viewPager_text"
+                android:layout_width="match_parent"
+                android:layout_height="140dp">
+            </android.support.v4.view.ViewPager>
+
+            <!--<cn.iwgang.countdownview.CountdownView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/timeout"
+                app:isHideTimeBackground="true"
+
+                app:isShowMinute="true"
+                app:isShowSecond="true"
+                app:isShowMillisecond="true"
+                app:timeTextColor="@color/bg_time"
+                app:timeTextSize="22sp"
+                app:isTimeTextBold="true"
+                app:suffixGravity="bottom"
+                app:suffixTextColor="#000000"
+                app:suffixTextSize="12sp"
+                app:suffixHour=":"
+                app:suffixMinute=":"
+                app:suffixSecond=":"
+                />-->
+
+            <com.jiuding.developer.zhihuishequ.util.XCRoundRectImageView
+                android:layout_marginTop="15dp"
+                android:layout_width="350dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:src="@mipmap/remai"
+                android:adjustViewBounds="true"
+                />
+
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_marginTop="5dp"
+                android:id="@+id/id_recyclerview_horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_centerVertical="true"
+                android:background="@color/colorSearch"
+                android:scrollbars="none" />
+
+            <com.jiuding.developer.zhihuishequ.util.XCRoundRectImageView
+                android:layout_width="350dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:src="@mipmap/beijing"
+                android:adjustViewBounds="true"
+                />
+            <com.jiuding.developer.zhihuishequ.util.MyGridView
+                android:id="@+id/tuijian_gridview"
+                android:paddingTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:verticalSpacing="10dp"
+                />
+
+            <com.jiuding.developer.zhihuishequ.util.XCRoundRectImageView
+
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:src="@mipmap/shishu"
+                android:adjustViewBounds="true"
+                />
+
+            <com.jiuding.developer.zhihuishequ.util.MyGridView
+                android:id="@+id/shishu_gridview"
+                android:paddingTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:verticalSpacing="10dp"
+                android:numColumns="2"
+                android:gravity="center"
+                />
+
+        </LinearLayout>
+
+
+</ScrollView>

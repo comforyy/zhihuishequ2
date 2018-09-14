@@ -1,0 +1,430 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:3:11-54
+		INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:6:5-84
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:6:22-82
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:58:5-68
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:8:5-72
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:28:5-73
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:8:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:12:5-80
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:50:5-81
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:14:5-78
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:60:5-79
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:16:5-75
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:51:5-76
+MERGED from [com.yolanda.nohttp:nohttp:1.0.4] /Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:18:5-78
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:18:5-79
+MERGED from [com.yolanda.nohttp:nohttp:1.0.4] /Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:20:5-75
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:46:5-76
+MERGED from [com.yolanda.nohttp:nohttp:1.0.4] /Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:20:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:22:5-74
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:22:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:25:5-83
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:35:5-84
+MERGED from [com.yolanda.nohttp:nohttp:1.0.4] /Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:25:22-81
+uses-permission#android.permission.CAMERA
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:26:5-64
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:84:5-65
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:26:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:27:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:29:5-59
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:89:5-91:35
+	android:required
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:91:9-32
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:29:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:30:5-69
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:30:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:32:5-65
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:32:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:33:5-67
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:68:5-68
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:35:5-80
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:54:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/macbookair/.android/build-cache/e1fe93b10ea97c0ad1eaf9a0354ffd10ee83a49a/output/AndroidManifest.xml:12:5-81
+MERGED from [com.yolanda.nohttp:nohttp:1.0.4] /Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:35:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:38:5-79
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:37:5-80
+MERGED from [com.yolanda.nohttp:nohttp:1.0.4] /Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:38:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:41:5-66
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:14:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/macbookair/.android/build-cache/e1fe93b10ea97c0ad1eaf9a0354ffd10ee83a49a/output/AndroidManifest.xml:11:5-67
+MERGED from [com.yolanda.nohttp:nohttp:1.0.4] /Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:41:22-64
+application
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:43:5-90:19
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:118:5-145:19
+MERGED from [org.xutils:xutils:3.5.0] /Users/macbookair/.android/build-cache/65839f57f34f087f47ec77c59c83bf4a4ac2c441/output/AndroidManifest.xml:12:5-20
+MERGED from [cn.yipianfengye.android:zxing-library:2.2] /Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/AndroidManifest.xml:11:5-18:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/macbookair/.android/build-cache/f0e21592381d62f946552d65bd0d08adf0b93601/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/macbookair/.android/build-cache/b91fd6cf32867b49b45971fed74d844cb7b3e790/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/macbookair/.android/build-cache/afcaa94b952b506cf805f0ac61133dce91f875be/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/macbookair/.android/build-cache/812e5c959d9ea56a7e63cc461d1b0a76fb4bb459/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/macbookair/.android/build-cache/58770a56517db005dfaf902bc703dd00357c088d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/macbookair/.android/build-cache/18a67fa311d9fa54a6939009cb80433ad5c5cc33/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/macbookair/.android/build-cache/77bcadc919e1546e885e3ff50a743cad1d8d0df2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/macbookair/.android/build-cache/fb8d60e9e3a0ea37945555da46df993d17ef16be/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] /Users/macbookair/.android/build-cache/e37249c6ef62bd8425256c0a591a13e462f943ce/output/AndroidManifest.xml:22:5-20
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] /Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/AndroidManifest.xml:11:5-14:19
+	android:label
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:48:9-41
+	android:supportsRtl
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:50:9-35
+	android:hardwareAccelerated
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:45:9-44
+	android:roundIcon
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:49:9-48
+	android:allowBackup
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:44:9-35
+	android:icon
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:47:9-43
+	android:largeHeap
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:46:9-33
+	android:theme
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:51:9-44
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:53:9-55:63
+	android:value
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:55:13-61
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:54:13-52
+activity#com.jiuding.developer.zhihuishequ.MainActivity
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:57:9-63:20
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:57:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:58:13-62:29
+action#android.intent.action.MAIN
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:59:17-68
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:61:17-76
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:61:27-74
+activity#com.jiuding.developer.zhihuishequ.SearchActivity
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:64:9-51
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:64:19-49
+activity#com.jiuding.developer.zhihuishequ.MapActivity
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:65:9-48
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:65:19-46
+service#com.baidu.location.f
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:68:9-72:19
+	android:enabled
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:70:13-35
+	android:process
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:71:13-38
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:69:13-48
+activity#com.jiuding.developer.zhihuishequ.function.Baopingremai
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:74:9-58
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:74:19-56
+activity#com.jiuding.developer.zhihuishequ.activity.LoginActivity
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:75:9-59
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:75:19-57
+activity#com.jiuding.developer.zhihuishequ.activity.RegisterActivity
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:76:9-62
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:76:19-60
+activity#com.jiuding.developer.zhihuishequ.ywtpay.MainActivity
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:79:9-56
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:79:19-54
+activity#cmb.pb.ui.PBKeyboardActivity
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:80:9-82:59
+	android:theme
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:82:13-56
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:81:13-56
+service#cmb.pb.cmbsafe.CmbService
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:83:9-85
+	android:exported
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:83:59-83
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:83:18-58
+activity#com.jiuding.developer.zhihuishequ.activity.StopCarActivity
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:86:9-61
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:86:19-59
+activity#com.jiuding.developer.zhihuishequ.activity.StopCarMsg
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:87:9-56
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:87:19-54
+activity#com.jiuding.developer.zhihuishequ.function.Meisi
+ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:88:9-51
+	android:name
+		ADDED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml:88:19-49
+uses-sdk
+INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/macbookair/.android/build-cache/7206ea2e51175c6f8ac3678509d5b956b0c8b2ce/output/AndroidManifest.xml:18:5-42
+MERGED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/macbookair/.android/build-cache/e1fe93b10ea97c0ad1eaf9a0354ffd10ee83a49a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.xutils:xutils:3.5.0] /Users/macbookair/.android/build-cache/65839f57f34f087f47ec77c59c83bf4a4ac2c441/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/macbookair/.android/build-cache/af8260f51e2746759d3338de520badc3bdb58de6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:0.6.0] /Users/macbookair/.android/build-cache/ddb0f5e412915f07b2e0a6b913a30b783dfaa2c2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.6.0] /Users/macbookair/.android/build-cache/a0911c676886aef9899d6e9bfcfad528850bc01a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.6.0] /Users/macbookair/.android/build-cache/46241866c1f5e45ea99118c57e4bccd6d985f125/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.6.0] /Users/macbookair/.android/build-cache/fadd390822569a6e8f2bfbb36083b4f5df9cab60/output/AndroidManifest.xml:5:5-7:41
+MERGED from [cn.yipianfengye.android:zxing-library:2.2] /Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/macbookair/.android/build-cache/f0e21592381d62f946552d65bd0d08adf0b93601/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/macbookair/.android/build-cache/b91fd6cf32867b49b45971fed74d844cb7b3e790/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.1] /Users/macbookair/.android/build-cache/afcaa94b952b506cf805f0ac61133dce91f875be/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/macbookair/.android/build-cache/812e5c959d9ea56a7e63cc461d1b0a76fb4bb459/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/macbookair/.android/build-cache/58770a56517db005dfaf902bc703dd00357c088d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/macbookair/.android/build-cache/18a67fa311d9fa54a6939009cb80433ad5c5cc33/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/macbookair/.android/build-cache/77bcadc919e1546e885e3ff50a743cad1d8d0df2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] /Users/macbookair/.android/build-cache/fb8d60e9e3a0ea37945555da46df993d17ef16be/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:24.2.0] /Users/macbookair/.android/build-cache/e37249c6ef62bd8425256c0a591a13e462f943ce/output/AndroidManifest.xml:20:5-43
+MERGED from [com.yolanda.nohttp:nohttp:1.0.4] /Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.bmob.android:bmob-sdk:3.5.5] /Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:25:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:26:22-75
+uses-permission#android.permission.CALL_PHONE
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:30:5-69
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:30:22-66
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:32:22-76
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:39:22-78
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:40:5-74
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:40:22-71
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:44:5-79
+MERGED from [com.yolanda.nohttp:nohttp:1.0.4] /Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:44:22-76
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:48:5-75
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:48:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:57:5-68
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:57:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:61:5-71
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:61:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:63:5-72
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:63:22-69
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:65:5-80
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:65:22-77
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:71:5-81
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:71:22-78
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:74:5-82
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:74:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:76:5-88
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:76:22-85
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:78:5-76
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:78:22-73
+uses-feature#android.hardware.telephony
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:80:5-82:36
+	android:required
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:82:9-33
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:81:9-50
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:94:5-73
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:94:22-70
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:96:5-68
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:96:22-65
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:98:5-75
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:98:22-72
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:101:5-75
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:101:22-72
+uses-permission#android.permission.USE_SIP
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:107:5-66
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:107:22-63
+uses-permission#android.permission.SEND_SMS
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:109:5-67
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:109:22-64
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:110:5-86
+MERGED from [com.yolanda.nohttp:nohttp:1.0.4] /Users/macbookair/.android/build-cache/d83c121d7dd9689afdeb54f53bdfc16a03532305/output/AndroidManifest.xml:18:5-86
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:110:22-83
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:116:5-72
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:116:22-69
+activity#com.kesetel.call.library.ui.activity.CallComingActivity
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:122:9-92
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:122:19-89
+activity#com.kesetel.call.library.ui.activity.CallActivity
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:123:9-86
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:123:19-83
+activity#com.kesetel.call.library.ui.activity.ShowDoorListActivity
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:124:9-94
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:124:19-91
+activity#com.kesetel.call.library.ui.activity.CallMainActivity
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:125:9-90
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:125:19-87
+service#com.kesetel.call.library.BizService
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:127:9-71
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:127:18-68
+service#com.kesetel.mobile.linphone.LinphoneService
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:128:9-79
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:128:18-76
+activity#com.kesetel.call.library.ui.activity.JurisdictionActivity
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:130:9-134:20
+	android:screenOrientation
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:133:13-49
+	android:launchMode
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:131:13-85
+activity#com.kesetel.call.library.ui.activity.BaseWebActivity
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:135:9-139:20
+	android:screenOrientation
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:138:13-49
+	android:launchMode
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:137:13-44
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:136:13-80
+activity#com.kesetel.call.library.ui.activity.SettingActvity
+ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:140:9-144:20
+	android:screenOrientation
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:143:13-49
+	android:launchMode
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:142:13-44
+	android:name
+		ADDED from [:library-release:] /Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/AndroidManifest.xml:141:13-79
+activity#com.uuzuche.lib_zxing.activity.CaptureActivity
+ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/AndroidManifest.xml:12:9-17:63
+	android:screenOrientation
+		ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/AndroidManifest.xml:15:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/AndroidManifest.xml:17:13-60
+	android:configChanges
+		ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/AndroidManifest.xml:14:13-63
+	android:theme
+		ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/AndroidManifest.xml:13:13-74

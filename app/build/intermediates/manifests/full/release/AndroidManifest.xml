@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jiuding.developer.zhihuishequ"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <!-- 百度地图 -->
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <!-- 定位 -->
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- SD卡读取权限，用户写入离线定位数据 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入离线定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- if you want to load images from a file OR from the internet -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- 允许联网 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Permissions for Push Notification -->
+    <!-- 允许程序改变Wi-Fi连接状态 -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" /> <!-- 震动 -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> <!-- 个推SDK 接受开机 自启动 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_UPDATES" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> <!-- 允许程序读取或写入系统设置 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" /> <!-- 允许程序拨打电话 -->
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" /> <!-- 允许应用读取外部存储 -->
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" /> <!-- 个推SDK权限 -->
+    <!-- 允许程序执行NFC近距离通讯操作 -->
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" /> <!-- 个推SDK权限允许程序改变Wi-Fi连接状态 -->
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" /> <!-- 小米,个推SDK写外部存储 -->
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" /> <!-- 允许程序录制音频 -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" /> <!-- 允许程序读取用户联系人数据 -->
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" /> <!-- 个推SDK 声明允许程序在手机屏幕关闭后后台进程仍然运行 -->
+    <!-- 实现电话的监听 -->
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" /> <!-- Needed to allow Linphone to install on tablets, since android.permission.CALL_PHONE implies android.hardware.telephony is required -->
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER" /> <!-- 百度推送 -->
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" /> <!-- 百度推送 禁止发出通知，既后台下载 -->
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" /> <!-- 小米，百度 允许应用程序读取电话状态的权限 -->
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" /> <!-- Needed to use our own Contact editor -->
+    <uses-permission android:name="android.permission.BLUETOOTH" /> <!-- 个推SDK权限支持iBeancon 需要蓝牙权限  允许程序连接配对过的蓝牙设备 -->
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" /> <!-- 允许一个程序广播常用intents -->
+    <!-- 允许应用使用低版本视图的特征    <uses-permission android:name="android.permission.ACCESS_SURFACE_FLINGER" /> -->
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" /> <!-- 允许程序重新启动其他程序 -->
+    <!-- 允许程序使用SurfaceFlinger底层特性 -->
+    <!-- 小米，个推SDK  WIFI状态访问 -->
+    <uses-permission android:name="android.permission.USE_SIP" /> <!-- 允许程序使用SIP视频服务 -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" /> <!-- Wifi的组播功能 -->
+    <!-- the following 2 com.kesetel.mobile should be changed to your package name -->
+    <!-- gai baoming -->
+    <uses-permission android:name="android.permission.REORDER_TASKS" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/shenghuohui"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/shenghuohui"
+        android:supportsRtl="true"
+        android:theme="@style/WelcomeTheme" >
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="PNCLMZKwMb1SZfv2vlXHTMApDHXhnXwa" />
+
+        <activity android:name="com.jiuding.developer.zhihuishequ.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.jiuding.developer.zhihuishequ.SearchActivity" />
+        <activity android:name="com.jiuding.developer.zhihuishequ.MapActivity" />
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+
+        <activity android:name="com.jiuding.developer.zhihuishequ.function.Baopingremai" />
+        <activity android:name="com.jiuding.developer.zhihuishequ.activity.LoginActivity" />
+        <activity android:name="com.jiuding.developer.zhihuishequ.activity.RegisterActivity" />
+
+        <!-- 一网通 -->
+        <activity android:name="com.jiuding.developer.zhihuishequ.ywtpay.MainActivity" />
+        <activity
+            android:name="cmb.pb.ui.PBKeyboardActivity"
+            android:theme="@style/CmbDialogStyleBottom" />
+
+        <service
+            android:name="cmb.pb.cmbsafe.CmbService"
+            android:exported="false" />
+
+        <activity android:name="com.jiuding.developer.zhihuishequ.activity.StopCarActivity" />
+        <activity android:name="com.jiuding.developer.zhihuishequ.activity.StopCarMsg" />
+        <activity android:name="com.jiuding.developer.zhihuishequ.function.Meisi" />
+        <activity android:name="com.kesetel.call.library.ui.activity.CallComingActivity" />
+        <activity android:name="com.kesetel.call.library.ui.activity.CallActivity" />
+        <activity android:name="com.kesetel.call.library.ui.activity.ShowDoorListActivity" />
+        <activity android:name="com.kesetel.call.library.ui.activity.CallMainActivity" />
+
+        <service android:name="com.kesetel.call.library.BizService" />
+        <service android:name="com.kesetel.mobile.linphone.LinphoneService" />
+
+        <activity
+            android:name="com.kesetel.call.library.ui.activity.JurisdictionActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.kesetel.call.library.ui.activity.BaseWebActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.kesetel.call.library.ui.activity.SettingActvity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.uuzuche.lib_zxing.activity.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+    </application>
+
+</manifest>

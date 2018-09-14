@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/mipmap-mdpi/icon_back_while.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/mipmap-mdpi/icon_back_while.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/mipmap-mdpi/icon_home_ktv_31.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/mipmap-mdpi/icon_home_ktv_31.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/mipmap-mdpi/icon_home_self_189.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/mipmap-mdpi/icon_home_self_189.png"
+    }
+]

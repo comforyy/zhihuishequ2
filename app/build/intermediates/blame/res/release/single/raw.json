@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/video.mp4",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/raw/video.mp4"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/rootca.pem",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/raw/rootca.pem"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/unlock.ogg",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/raw/unlock.ogg"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/linphonerc_default",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/raw/linphonerc_default"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/keep.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/raw/keep.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/oldphone_mono.wav",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/raw/oldphone_mono.wav"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/toy_mono.wav",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/raw/toy_mono.wav"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/lpconfig.xsd",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/raw/lpconfig.xsd"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/ringback.wav",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/raw/ringback.wav"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/beep.ogg",
+        "source": "/Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/linphonerc_factory",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/raw/linphonerc_factory"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/raw/incoming_chat.wav",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/raw/incoming_chat.wav"
+    }
+]

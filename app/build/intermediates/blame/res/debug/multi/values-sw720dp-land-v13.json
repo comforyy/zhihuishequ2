@@ -1,0 +1,356 @@
+[
+    {
+        "outputFile": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 50,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 50,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 75,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 75,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endLine": 14,
+                    "endColumn": 10,
+                    "endOffset": 690
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endLine": 14,
+                        "endColumn": 10,
+                        "endOffset": 690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 695,
+                    "endColumn": 61,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 695,
+                        "endColumn": 61,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endLine": 19,
+                    "endColumn": 9,
+                    "endOffset": 890
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endLine": 19,
+                        "endColumn": 9,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 895,
+                    "endLine": 23,
+                    "endColumn": 9,
+                    "endOffset": 1028
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 23,
+                        "endColumn": 9,
+                        "endOffset": 1028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1033,
+                    "endLine": 27,
+                    "endColumn": 9,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endLine": 27,
+                        "endColumn": 9,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endLine": 31,
+                    "endColumn": 9,
+                    "endOffset": 1304
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1171,
+                        "endLine": 31,
+                        "endColumn": 9,
+                        "endOffset": 1304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1309,
+                    "endLine": 35,
+                    "endColumn": 9,
+                    "endOffset": 1445
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1309,
+                        "endLine": 35,
+                        "endColumn": 9,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1450,
+                    "endLine": 39,
+                    "endColumn": 9,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1450,
+                        "endLine": 39,
+                        "endColumn": 9,
+                        "endOffset": 1583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 1721
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1588,
+                        "endLine": 43,
+                        "endColumn": 11,
+                        "endOffset": 1721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1726,
+                    "endLine": 47,
+                    "endColumn": 11,
+                    "endOffset": 1859
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1726,
+                        "endLine": 47,
+                        "endColumn": 11,
+                        "endOffset": 1859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1864,
+                    "endLine": 51,
+                    "endColumn": 11,
+                    "endOffset": 1997
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1864,
+                        "endLine": 51,
+                        "endColumn": 11,
+                        "endOffset": 1997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2002,
+                    "endLine": 55,
+                    "endColumn": 11,
+                    "endOffset": 2135
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2002,
+                        "endLine": 55,
+                        "endColumn": 11,
+                        "endOffset": 2135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2140,
+                    "endLine": 59,
+                    "endColumn": 11,
+                    "endOffset": 2273
+                },
+                "from": {
+                    "file": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2140,
+                        "endLine": 59,
+                        "endColumn": 11,
+                        "endOffset": 2273
+                    }
+                }
+            }
+        ]
+    }
+]

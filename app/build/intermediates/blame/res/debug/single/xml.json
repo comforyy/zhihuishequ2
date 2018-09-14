@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/xml/cmbkb_number_with_change.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/xml/cmbkb_number_with_change.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/xml/cmbkb_qwerty.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/xml/cmbkb_qwerty.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/xml/cmbkb_number_symbols.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/xml/cmbkb_number_symbols.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/xml/cmbkb_number_with_x.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/xml/cmbkb_number_with_x.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/xml/cmbkb_number_with_dot.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/xml/cmbkb_number_with_dot.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/xml/widget_x_info.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/xml/widget_x_info.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/xml/cmbkb_symbols.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/xml/cmbkb_symbols.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/debug/xml/cmbkb_number.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/xml/cmbkb_number.xml"
+    }
+]

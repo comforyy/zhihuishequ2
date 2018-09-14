@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

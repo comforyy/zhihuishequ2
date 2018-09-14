@@ -1,0 +1,870 @@
+[
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_button_check_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/tab_text.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/tab_text.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/slide_pot.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/slide_pot.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/launcher.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/launcher.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/unlike.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/unlike.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/password_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/password_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/btn_quick_register_bg_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/btn_quick_register_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/progress_bar_states.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/progress_bar_states.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/tab_1_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/tab_1_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/custom_toast.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/custom_toast.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_shift_normal.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_shift_normal.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/orange_bg.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/orange_bg.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/speaker_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/speaker_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/check_box_style.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/check_box_style.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/demo.jpg",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/demo.jpg"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/scan_light.png",
+        "source": "/Users/macbookair/.android/build-cache/ebdd290c1e933f790cd500a414f248bd6bef0b94/output/res/drawable/scan_light.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/setting_btn_lu_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/setting_btn_lu_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/round_bg_e0e0e0.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/round_bg_e0e0e0.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/shopping.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/shopping.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_button_ok_bg_tap.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/btn_purple_pressed_shape.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/btn_purple_pressed_shape.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/passed.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/passed.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/spenner_jurisdiction_tiem.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/spenner_jurisdiction_tiem.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/hide_pwd_bg_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/hide_pwd_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/setting_bg.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/setting_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bg_gv.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/bg_gv.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/delete.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/delete.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_logo.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_logo.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/slince_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/slince_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_wifi_disable.png",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/icon_check_32.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/icon_check_32.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/jurxb.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/jurxb.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/wuye.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/wuye.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/test_2.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/test_2.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_button_ok_bg_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/radio_sel.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/radio_sel.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/login_color_bg.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/login_color_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/home_advertimsent.jpg",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/home_advertimsent.jpg"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/progressbar.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/progressbar.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_sym_keyboard_space.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_sym_keyboard_space.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_space_dark.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_space_dark.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/conf_status_paused.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/conf_status_paused.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/radio_btn.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/radio_btn.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/jurzf.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/jurzf.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/userlogin_btn_bg_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/userlogin_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_key_delete_normal.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_key_delete_normal.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/edittext_bg_focused.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/edittext_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/status_level.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/status_level.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/btn_back.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/btn_back.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/roud_btn_focused.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/roud_btn_focused.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/red_shape_text.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/red_shape_text.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bg_btn_style_white.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/bg_btn_style_white.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_dialog_bg.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/selector_item_search.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/selector_item_search.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/logo_homepage.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/logo_homepage.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/nickname.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/nickname.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/me.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/me.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/orange_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/orange_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/selector_list_item.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/selector_list_item.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_button_close_bg_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bg_btn_style_red.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/bg_btn_style_red.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/dialog_fragment_bg.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/dialog_fragment_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/register_user.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/register_user.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/round_btn_green_self_disable.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/round_btn_green_self_disable.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/offline_status.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/offline_status.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/white2gray.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/white2gray.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/et_bg_round.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/et_bg_round.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/slide_pot_selected.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/slide_pot_selected.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/video_call.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/video_call.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/ddhk_header_back.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/ddhk_header_back.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/select.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/select.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/test_3.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/test_3.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/round_btn_green_tk_click.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/round_btn_green_tk_click.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/open_2.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/open_2.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/roud_et_nocolor.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/roud_et_nocolor.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/edittext_round_background_yellow.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/edittext_round_background_yellow.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/lancher_1.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/lancher_1.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/register_btn_bg_click.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/register_btn_bg_click.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/inline_3_cancle.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/inline_3_cancle.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/video_call_press.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/video_call_press.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_bg.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_bg.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/open_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/open_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_shift_actived.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_shift_actived.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/video_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/video_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/video_accept_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/video_accept_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/white_quai_bg.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/white_quai_bg.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/community.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/community.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/jursfz.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/jursfz.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/select_no.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/select_no.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/logo_linphone_64x64.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/logo_linphone_64x64.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_btn_pressed.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/open_1.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/open_1.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/calling_coming.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/calling_coming.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/jiesuo_button.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/jiesuo_button.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_button_cancel_bg_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/life.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/life.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/call_reject_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/call_reject_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/shape_textview_cart.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/shape_textview_cart.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/imageview_btn_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/imageview_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_btn_keyboard_key.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_btn_keyboard_key.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/round_btn_orange_self_disable.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/round_btn_orange_self_disable.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/indicator_corner_bg.xml",
+        "source": "/Users/macbookair/.android/build-cache/e1fe93b10ea97c0ad1eaf9a0354ffd10ee83a49a/output/res/drawable/indicator_corner_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/white_border_area.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/white_border_area.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_button_ok_bg_normal.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/jiesuo_bg.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/jiesuo_bg.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/login_btn_click.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/login_btn_click.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/reg_led.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/reg_led.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_backspace_icon.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_backspace_icon.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/round_btn_orange_self_normal.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/round_btn_orange_self_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/round_btn_green_tk_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/round_btn_green_tk_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/call_accept_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/call_accept_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/selector_number_add_sub.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/selector_number_add_sub.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_button_cancel_bg_normal.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/inline_4.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/inline_4.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/jursjhm.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/jursjhm.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_emotionstore_progresscancelbtn.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/btn_purple_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/btn_purple_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/chat_icon_over.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/chat_icon_over.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/roud_et.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/roud_et.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/setting_btn_red_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/setting_btn_red_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_list_separator.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_list_separator.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/roud_btn_normal.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/roud_btn_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/login_btn_normal.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/login_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/online_status.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/online_status.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/btn_purple_normal_shape.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/btn_purple_normal_shape.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/incoming_cross.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/incoming_cross.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/homepage.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/homepage.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/icon_back_32px.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/icon_back_32px.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_btn_normal.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/boder.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/boder.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/icon_check_checked_32.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/icon_check_checked_32.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/movie_group_good_buy_d.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/movie_group_good_buy_d.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/round_btn_green_tk_normal.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/round_btn_green_tk_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_button_ok_bg_focused.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/tab_5_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/tab_5_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/login_btn_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/login_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/inline_1.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/inline_1.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/phone.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/phone.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/checkbox_normal.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/checkbox_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/tab_2_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/tab_2_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_button_cancel_bg_tap.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/button_back.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/button_back.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/header_back_bg.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/header_back_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/main_color_bg.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/main_color_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/zan.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/zan.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/default_img.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/default_img.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/inline_3.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/inline_3.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/audio_call_head_bg.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/audio_call_head_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/header_back.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/header_back.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/list_view_item_bg_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/list_view_item_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_space.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_space.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/inline_2_cancle.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/inline_2_cancle.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_shift_dark_normal.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_shift_dark_normal.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/checkbox_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/checkbox_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/widget_key.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/widget_key.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/edittext_bg_normal.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/edittext_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/checkbox_pressed.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/checkbox_pressed.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/round_btn_orange_self_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/round_btn_orange_self_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/progress_bg.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/progress_bg.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bg_datevideo.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/bg_datevideo.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/cmbkb_backspace_dark_icon.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/cmbkb_backspace_dark_icon.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/right_selector.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/right_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/bmob_update_button_cancel_bg_focused.xml",
+        "source": "/Users/macbookair/.android/build-cache/596608e9d436076f824df2579ccc83e855246263/output/res/drawable/bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/header_back_bg_press.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/header_back_bg_press.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/checkbox_default.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/checkbox_default.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/demo1.jpg",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/demo1.jpg"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/incoming_cross_press.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/incoming_cross_press.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/round_btn_orange_self_click.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/round_btn_orange_self_click.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/inline_2.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/inline_2.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/incoming_call.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/incoming_call.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/radio.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/radio.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/selector_checkbox.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/selector_checkbox.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/splash_logo.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/splash_logo.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/open_4.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/open_4.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/tab_4_selector.xml",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/tab_4_selector.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/register_btn_bg.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/register_btn_bg.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/inline_4_cancle.png",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/inline_4_cancle.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/top_select.9.png",
+        "source": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/src/main/res/drawable/top_select.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/drawable/blue_shape_text.xml",
+        "source": "/Users/macbookair/.android/build-cache/5a1a877230d813fd749e57baeb643c2d2a16e866/output/res/drawable/blue_shape_text.xml"
+    }
+]

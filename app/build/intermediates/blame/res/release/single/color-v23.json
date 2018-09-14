@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/macbookair/AndroidStudioProjects/Zhihuishequ2/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/macbookair/.android/build-cache/512487a1b6106f70d3ba7eaf627d100e0bd7b0cd/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]
